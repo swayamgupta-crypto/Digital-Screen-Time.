@@ -1,6 +1,6 @@
 # Digital Screen Time Analyzer
 
-**Author:** Udit Agarwal
+**Author:** Swayam Gupta
 **Course:** Python Essentials 
 
 Hi! This is my project for the Python Essentials flipped course evaluation. I built a simple command-line tool to track screen time and calculate productivity. I chose this topic because as students, it's really hard to keep track of how much time we waste on YouTube or games compared to actual studying.
@@ -16,10 +16,9 @@ There are no external libraries, so you do not need to use `pip install` for any
 
 ## How to setup and run
 
-1. Clone this repository to your system:
-   `git clone https://github.com/uditagarwal0708/screen_tracker_project`
-2. Open your terminal or command prompt.
-3. Navigate into the downloaded project folder.
-4. Run the main script using the following command:
+
+1. Open your terminal or command prompt.
+2. Navigate into the downloaded project folder.
+3. Run the main script using the following command:
    `python main.py` (or `python3 main.py` depending on your system)
-5. A menu will pop up in the terminal. Just follow the on-screen numbers to log your screen time, view your health report, or see the text-based bar chart.
+4. A menu will pop up in the terminal. Just follow the on-screen numbers to log your screen time, view your health report, or see the text-based bar chart.
